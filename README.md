@@ -6,6 +6,6 @@
 
 #### 1. 백엔드를 위한 Go 프로그래밍 - 탠메이 박시 , 바히어 카말 저
 
-- [Source Code Github Repository](https://github.com/Tanmay-Teaches/golan)
+- [Source Code Github Repository](https://github.com/Tanmay-Teaches/golang)
 
 #### 2. Go 언어를 활용한 네트워크 프로그래밍 - 애덤 우드벡 저
